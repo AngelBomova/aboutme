@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+background-color: gray;
+}
+h1 {color:rgb(71, 190, 255); font-size:48px; text-shadow: 2px 2px 5px red; border-style: solid; border-color: rgb(71, 190, 255);
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;}
+
+
+.aboutme {
+  border: 30px solid #579; }
+  .htwo
+{border-style: dashed; border-color: rgb(71, 190, 255);
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;}
+.htwo {border-style: solid; border-bottom-style: dotted; border-radius: 15px; border-color: green;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+.hthree
+{border-style: solid; border-radius: 15px; border-color: blue;
+    padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+}
